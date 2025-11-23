@@ -4,27 +4,9 @@
 
 Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Tools.
 
-## Table of Contents
-
-- [Hello! My Name is Sunny 🌞](#hello-my-name-is-sunny-)
-- [Useful Keyboard Shortcuts for Today](#useful-keyboard-shortcuts-for-today)
-- [Tools for Today](#tools-for-today)
-- [Other Popular AI Tools](#other-popular-ai-tools)
-- [What is Generative AI?](#what-is-generative-ai)
-- [Categories of GenAI Tools](#categories-of-genai-tools)
-- [Reminders on Using AI Tools](#reminders-on-using-ai-tools)
-- [Effective Prompting Structure: RICE FACT Framework](#effective-prompting-structure-rice-fact-framework)
-- [Sample Prompts for Today](#sample-prompts-for-today)
-- [Writing Effective Image Generation Prompts](#writing-effective-image-generation-prompts)
-- [The Recent Popular Nano Banana 3D Character Prompt](#the-recent-popular-nano-banana-3d-character-prompt)
-- [Using visualgpt](#using-visualgpt)
-- [Videos Generation](#videos-generation)
-- [Photo / Video / Icon Libraries](#photo--video--icon-libraries)
-- [HKU Suggested GenAI Tools](#hku-suggested-genai-tools)
-
 # Hello! My Name is Sunny 🌞
 
-[Lecture Slides](./slides/Lecture.pdf#page=1)
+[Lecture Slides](./slides/Lecture.pdf#page=5)
 
 <img src="https://training.imagenation.com.hk/assets/img/sunnyng.png" alt="Sunny Ng" width="100"/>
 
