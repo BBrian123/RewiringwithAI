@@ -1,0 +1,22 @@
+h1 {
+  color: #fa7f08;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  padding: 10px 0;
+  z-index: 100;
+  border-bottom: 2px solid #eee;
+}
+
+h2 {
+  position: sticky;
+  top: 60px; /* Adjust based on h1 height */
+  background-color: white;
+  padding: 5px 0;
+  z-index: 90;
+}
+
+b,
+strong {
+  color: #fa7f08;
+}
