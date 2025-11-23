@@ -43,7 +43,7 @@ It is more effective to keep multiple tabs open for different tools.
 
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` on Mac) when clicking the links below.
 
-- [Andy AI](https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
+- <a href="https://gptbots.ai/s/csOvpiEG" target="_blank">Andy AI</a> - Specially-built AI Assistant for our workshop
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [Grok](https://grok.com) - AI tool for generating text and code.
